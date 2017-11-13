@@ -1,4 +1,4 @@
-//Exercise 3
+//Exercise 4
 
 const forEachSum = (arr) =>{
     let sum = 0
